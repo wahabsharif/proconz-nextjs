@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unknown-property */
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
 import particlesConfig from "../../config/particle-config";
@@ -164,6 +165,7 @@ const Demos = () => {
         </div>
       </header>
       <div className="main-content section-padding pb-0">
+        O
         <section className="masonery section-padding">
           <div className="container">
             <div className="row justify-content-center">
@@ -551,7 +553,6 @@ const Demos = () => {
             </div>
           </div>
         </section>
-
         <section className="masonery section-padding position-re">
           <div className="container">
             <div className="row justify-content-center">
@@ -786,7 +787,6 @@ const Demos = () => {
 
           <div className="line top left"></div>
         </section>
-
         <section className="masonery section-padding position-re">
           <div className="container">
             <div className="row justify-content-center">
@@ -1038,7 +1038,6 @@ const Demos = () => {
 
           <div className="line top left"></div>
         </section>
-
         <section className="services bords lficon section-padding position-re">
           <div className="container">
             <div className="row justify-content-center">
@@ -1104,7 +1103,6 @@ const Demos = () => {
           </div>
           <div className="line top right"></div>
         </section>
-
         <section
           className="call-action section-padding bg-img"
           style={{ backgroundImage: "url(/img/patrn.svg)" }}

@@ -5,16 +5,18 @@ import Cursor from "../components/cursor";
 import ScrollToTop from "../components/scrollToTop";
 import LoadingScreen from "../components/Loading-Screen";
 import "../styles/main.scss";
+import ParticlesBg from "../components/Particles/particlesBg";
 
 function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Vie</title>
-        <link rel="icon" href="/img/favicon.ico" />
+        <title>ProConz</title>
+        <link rel="icon" href="favicon.ico" />
       </Head>
       <Cursor />
       <LoadingScreen />
+      <ParticlesBg />
       <Component {...pageProps} />
       <ScrollToTop />
       <Script id="wow" src="/js/wow.min.js"></Script>
