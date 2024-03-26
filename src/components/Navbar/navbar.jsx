@@ -62,26 +62,14 @@ const Navbar = ({ lr, nr, theme }) => {
                 aria-haspopup="true"
                 aria-expanded="false"
               >
-                Projects
+                Commercial High Raise
               </span>
               <div className="dropdown-menu">
                 <Link href={`/showcase/showcase-dark`}>
-                  <a className="dropdown-item">Showcase Parallax</a>
+                  <a className="dropdown-item">Castle Heights</a>
                 </Link>
                 <Link href={`/showcase4/showcase4-dark`}>
-                  <a className="dropdown-item">Showcase Carousel</a>
-                </Link>
-                <Link href={`/showcase3/showcase3-dark`}>
-                  <a className="dropdown-item">Showcase Circle</a>
-                </Link>
-                <Link href={`/works/works-dark`}>
-                  <a className="dropdown-item">Portfolio Masonry</a>
-                </Link>
-                <Link href={`/works2/works2-dark`}>
-                  <a className="dropdown-item">Portfolio Filtering</a>
-                </Link>
-                <Link href={`/works3/works3-dark`}>
-                  <a className="dropdown-item">Portfolio Gallery</a>
+                  <a className="dropdown-item">Clock Tower</a>
                 </Link>
               </div>
             </li>
@@ -93,20 +81,20 @@ const Navbar = ({ lr, nr, theme }) => {
                 aria-haspopup="true"
                 aria-expanded="false"
               >
-                Societies
+                Housing Estate
               </span>
               <div className="dropdown-menu">
                 <Link href={`/blog/blog-dark`}>
-                  <a className="dropdown-item">Blog Standerd</a>
+                  <a className="dropdown-item">ParkView City</a>
                 </Link>
                 <Link href={`/blog-list/blog-list-dark`}>
-                  <a className="dropdown-item">Blog List</a>
+                  <a className="dropdown-item">Bahria Enclave</a>
                 </Link>
                 <Link href={`/blog-grid/blog-grid-dark`}>
-                  <a className="dropdown-item">Blog Grid</a>
+                  <a className="dropdown-item">Capital Smart City</a>
                 </Link>
                 <Link href={`/blog-details/blog-details-dark`}>
-                  <a className="dropdown-item">Blog Details</a>
+                  <a className="dropdown-item">CDA Islamabad</a>
                 </Link>
               </div>
             </li>
