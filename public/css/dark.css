@@ -158,12 +158,12 @@ span:hover {
     left top,
     right top,
     from(#c0d725),
-    color-stop(#68d725),
-    to(#94d725)
+    color-stop(#c0d725),
+    to(#c0d725)
   );
-  background: -webkit-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: -o-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: linear-gradient(to right, #c0d725, #68d725, #94d725);
+  background: -webkit-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: -o-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: linear-gradient(to right, #c0d725, #c0d725, #c0d725);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -174,12 +174,12 @@ span:hover {
     left top,
     right top,
     from(#c0d725),
-    color-stop(#68d725),
-    to(#94d725)
+    color-stop(#c0d725),
+    to(#c0d725)
   );
-  background: -webkit-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: -o-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: linear-gradient(to right, #c0d725, #68d725, #94d725);
+  background: -webkit-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: -o-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: linear-gradient(to right, #c0d725, #c0d725, #c0d725);
 }
 
 .line {
@@ -191,12 +191,12 @@ span:hover {
     left top,
     right top,
     from(#c0d725),
-    color-stop(#68d725),
-    to(#94d725)
+    color-stop(#c0d725),
+    to(#c0d725)
   );
-  background: -webkit-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: -o-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: linear-gradient(to right, #c0d725, #68d725, #94d725);
+  background: -webkit-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: -o-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: linear-gradient(to right, #c0d725, #c0d725, #c0d725);
 }
 
 .line.top {
@@ -1040,12 +1040,12 @@ span:hover {
     left top,
     right top,
     from(#c0d725),
-    color-stop(#68d725),
-    to(#94d725)
+    color-stop(#c0d725),
+    to(#c0d725)
   );
-  background: -webkit-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: -o-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: linear-gradient(to right, #c0d725, #68d725, #94d725);
+  background: -webkit-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: -o-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: linear-gradient(to right, #c0d725, #c0d725, #c0d725);
 }
 
 .pace.pace-inactive {
@@ -1602,12 +1602,12 @@ span:hover {
     left top,
     right top,
     from(#c0d725),
-    color-stop(#68d725),
-    to(#94d725)
+    color-stop(#c0d725),
+    to(#c0d725)
   );
-  background: -webkit-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: -o-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: linear-gradient(to right, #c0d725, #68d725, #94d725);
+  background: -webkit-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: -o-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: linear-gradient(to right, #c0d725, #c0d725, #c0d725);
   padding: 7px 12px;
   border-radius: 10px;
 }
@@ -1706,12 +1706,12 @@ span:hover {
     left top,
     right top,
     from(#c0d725),
-    color-stop(#68d725),
-    to(#94d725)
+    color-stop(#c0d725),
+    to(#c0d725)
   );
-  background: -webkit-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: -o-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: linear-gradient(to right, #c0d725, #68d725, #94d725);
+  background: -webkit-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: -o-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: linear-gradient(to right, #c0d725, #c0d725, #c0d725);
   border: transparent;
 }
 
@@ -2623,12 +2623,12 @@ span:hover {
     left top,
     right top,
     from(#c0d725),
-    color-stop(#68d725),
-    to(#94d725)
+    color-stop(#c0d725),
+    to(#c0d725)
   );
-  background: -webkit-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: -o-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: linear-gradient(to right, #c0d725, #68d725, #94d725);
+  background: -webkit-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: -o-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: linear-gradient(to right, #c0d725, #c0d725, #c0d725);
   border-radius: 15px;
   -webkit-transform: rotate(-3deg);
   -ms-transform: rotate(-3deg);
@@ -2743,12 +2743,12 @@ span:hover {
     left top,
     right top,
     from(#c0d725),
-    color-stop(#68d725),
-    to(#94d725)
+    color-stop(#c0d725),
+    to(#c0d725)
   );
-  background: -webkit-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: -o-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: linear-gradient(to right, #c0d725, #68d725, #94d725);
+  background: -webkit-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: -o-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: linear-gradient(to right, #c0d725, #c0d725, #c0d725);
   z-index: -2;
 }
 
@@ -2823,12 +2823,12 @@ span:hover {
     right top,
     left top,
     from(#c0d725),
-    color-stop(#68d725),
-    to(#94d725)
+    color-stop(#c0d725),
+    to(#c0d725)
   );
-  background: -webkit-linear-gradient(right, #c0d725, #68d725, #94d725);
-  background: -o-linear-gradient(right, #c0d725, #68d725, #94d725);
-  background: linear-gradient(to left, #c0d725, #68d725, #94d725);
+  background: -webkit-linear-gradient(right, #c0d725, #c0d725, #c0d725);
+  background: -o-linear-gradient(right, #c0d725, #c0d725, #c0d725);
+  background: linear-gradient(to left, #c0d725, #c0d725, #c0d725);
   position: absolute;
   top: -5px;
   left: -5px;
@@ -4030,12 +4030,12 @@ span:hover {
     left top,
     right top,
     from(#c0d725),
-    color-stop(#68d725),
-    to(#94d725)
+    color-stop(#c0d725),
+    to(#c0d725)
   );
-  background: -webkit-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: -o-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: linear-gradient(to right, #c0d725, #68d725, #94d725);
+  background: -webkit-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: -o-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: linear-gradient(to right, #c0d725, #c0d725, #c0d725);
   z-index: -2;
 }
 
@@ -4412,12 +4412,12 @@ span:hover {
     left top,
     right top,
     from(#c0d725),
-    color-stop(#68d725),
-    to(#94d725)
+    color-stop(#c0d725),
+    to(#c0d725)
   );
-  background: -webkit-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: -o-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: linear-gradient(to right, #c0d725, #68d725, #94d725);
+  background: -webkit-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: -o-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: linear-gradient(to right, #c0d725, #c0d725, #c0d725);
   z-index: -1;
   opacity: 0.05;
 }
@@ -4542,12 +4542,12 @@ span:hover {
     left top,
     right top,
     from(#c0d725),
-    color-stop(#68d725),
-    to(#94d725)
+    color-stop(#c0d725),
+    to(#c0d725)
   );
-  background: -webkit-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: -o-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: linear-gradient(to right, #c0d725, #68d725, #94d725);
+  background: -webkit-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: -o-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: linear-gradient(to right, #c0d725, #c0d725, #c0d725);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-size: 40px;
@@ -4626,12 +4626,12 @@ span:hover {
     left top,
     right top,
     from(#c0d725),
-    color-stop(#68d725),
-    to(#94d725)
+    color-stop(#c0d725),
+    to(#c0d725)
   );
-  background: -webkit-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: -o-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: linear-gradient(to right, #c0d725, #68d725, #94d725);
+  background: -webkit-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: -o-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: linear-gradient(to right, #c0d725, #c0d725, #c0d725);
   z-index: -2;
   opacity: 0;
   -webkit-transition: all 0.4s;
@@ -6180,12 +6180,12 @@ span:hover {
     left top,
     right top,
     from(#c0d725),
-    color-stop(#68d725),
-    to(#94d725)
+    color-stop(#c0d725),
+    to(#c0d725)
   );
-  background: -webkit-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: -o-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: linear-gradient(to right, #c0d725, #68d725, #94d725);
+  background: -webkit-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: -o-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: linear-gradient(to right, #c0d725, #c0d725, #c0d725);
   -webkit-transition: all 1.5s;
   -o-transition: all 1.5s;
   transition: all 1.5s;
@@ -6284,12 +6284,12 @@ span:hover {
     left top,
     right top,
     from(#c0d725),
-    color-stop(#68d725),
-    to(#94d725)
+    color-stop(#c0d725),
+    to(#c0d725)
   );
-  background: -webkit-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: -o-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: linear-gradient(to right, #c0d725, #68d725, #94d725);
+  background: -webkit-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: -o-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: linear-gradient(to right, #c0d725, #c0d725, #c0d725);
   opacity: 0;
   z-index: -1;
   -webkit-transition: all 0.7s;
@@ -6362,12 +6362,12 @@ span:hover {
     left top,
     right top,
     from(#c0d725),
-    color-stop(#68d725),
-    to(#94d725)
+    color-stop(#c0d725),
+    to(#c0d725)
   );
-  background: -webkit-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: -o-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: linear-gradient(to right, #c0d725, #68d725, #94d725);
+  background: -webkit-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: -o-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: linear-gradient(to right, #c0d725, #c0d725, #c0d725);
   opacity: 0;
   z-index: -1;
   -webkit-transition: all 0.7s;
@@ -6807,12 +6807,12 @@ span:hover {
     left top,
     right top,
     from(#c0d725),
-    color-stop(#68d725),
-    to(#94d725)
+    color-stop(#c0d725),
+    to(#c0d725)
   );
-  background: -webkit-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: -o-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: linear-gradient(to right, #c0d725, #68d725, #94d725);
+  background: -webkit-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: -o-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: linear-gradient(to right, #c0d725, #c0d725, #c0d725);
   z-index: -4;
 }
 
@@ -7227,12 +7227,12 @@ span:hover {
     left top,
     right top,
     from(#c0d725),
-    color-stop(#68d725),
-    to(#94d725)
+    color-stop(#c0d725),
+    to(#c0d725)
   );
-  background: -webkit-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: -o-linear-gradient(left, #c0d725, #68d725, #94d725);
-  background: linear-gradient(to right, #c0d725, #68d725, #94d725);
+  background: -webkit-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: -o-linear-gradient(left, #c0d725, #c0d725, #c0d725);
+  background: linear-gradient(to right, #c0d725, #c0d725, #c0d725);
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
   transition: all 0.4s;
