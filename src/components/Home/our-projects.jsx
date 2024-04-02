@@ -72,6 +72,7 @@ const OurProject = () => {
             onClick={() => handleBoxClick(index)}
           >
             <div className="overlay"></div>
+            <div className="number">{index + 1}</div> {/* Display number */}
           </div>
         ))}
       </div>

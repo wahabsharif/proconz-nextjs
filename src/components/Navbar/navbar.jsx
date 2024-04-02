@@ -62,7 +62,7 @@ const Navbar = ({ lr, nr, theme }) => {
                 aria-haspopup="true"
                 aria-expanded="false"
               >
-                Commercial High Raise
+                High Rise
               </span>
               <div className="dropdown-menu">
                 <Link href={`/showcase/showcase-dark`}>
